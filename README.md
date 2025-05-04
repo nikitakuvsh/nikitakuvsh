@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 Немного обо мне
 
-- 🎯 Основной фокус — **Frontend** с сильной базой на **React + Tailwind CSS**
+- 🎯 Основной фокус — **Frontend** с сильной базой на **React**
 - 🌍 Работаю как с интерфейсами, так и с серверной логикой (FastAPI, Node.js)
 - 🚀 Постоянно учусь и совершенствуюсь — люблю чистый код, понятную архитектуру и современные практики
 - 🌆 Живу в Москве, открыт к интересным предложениям и коллаборациям
@@ -42,13 +42,13 @@
 
 ### 📬 Контакты
 
-- Telegram: [@nikitakuvsh](https://t.me/nikitakuvsh)
-- Email: `your-email@example.com` *(замени на свою)*
+- Telegram: [@nikitapoluchaetcya](https://t.me/nikitapoluchaetcya)
+- Email: `nikita_kuvshinnikov@inbox.ru`
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
 <p align="center">
