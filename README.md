@@ -43,7 +43,7 @@
 
 ### 📬 Контакты
 
-- Telegram: [@nikitapoluchaetcya](https://t.me/nikitapoluchaetcya)
+- Telegram: [@nikitakuvsh](https://t.me/nikitakuvsh)
 - Email: `nikita_kuvshinnikov@inbox.ru`
 
 ---
