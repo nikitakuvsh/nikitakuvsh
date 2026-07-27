@@ -8,7 +8,21 @@
 
 </div>
 
----
+<br>
+
+<table>
+<tr>
+
+<td width="40%" align="center" valign="middle">
+
+<img 
+  src="./.github/workflows/ASCIIIIIII.jpg" 
+  width="100%" 
+  alt="ASCII Art">
+
+</td>
+
+<td width="60%" valign="middle">
 
 ```console
 nikita@github:~$ whoami
