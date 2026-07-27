@@ -2,9 +2,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph.svg?palette=github-purple">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rootkuvsh/rootkuvsh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rootkuvsh/rootkuvsh/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rootkuvsh/rootkuvsh/output/pacman-contribution-graph.svg?palette=github-purple">
 </picture>
 
 </div>
@@ -28,9 +28,9 @@
 <td width="100%" valign="middle">
 
 ```console
-nikita@github:~$ whoami
+root@github:~$ whoami
 
-Nikita Kuvshinnikov
+root Kuvshinnikov
 
 Frontend-Focused FullStack Developer
 
@@ -38,12 +38,12 @@ Focused on creating modern interfaces,
 scalable applications and reliable backend solutions.
 
 
-nikita@github:~$ location
+root@github:~$ location
 
 📍 Moscow, Russia
 
 
-nikita@github:~$ technologies
+root@github:~$ technologies
 
 ✔ React
 ✔ TypeScript
@@ -55,7 +55,7 @@ nikita@github:~$ technologies
 ✔ Docker
 
 
-nikita@github:~$ current_status
+root@github:~$ current_status
 
 🟣 Available for interesting projects
 
