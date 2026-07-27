@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Nikita
 
-### Frontend-focused FullStack devoloper
+### Frontend-focused FullStack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+modern+web+applications...;React+%7C+TypeScript+%7C+FastAPI;Designing+scalable+solutions." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7E22CE&center=true&vCenter=true&width=750&lines=Building+modern+web+applications...;React+%7C+TypeScript+%7C+FastAPI;Designing+scalable+solutions." />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161329,50:581c87,100:7e22ce&height=120&section=header"/>
 
 </div>
 
@@ -33,12 +33,14 @@ Nikita Kuvshinnikov
 
 Frontend-Focused FullStack Developer
 
-Focused on creating modern user interfaces,
+Focused on creating modern interfaces,
 scalable applications and reliable backend solutions.
+
 
 nikita@github:~$ location
 
 Moscow, Russia
+
 
 nikita@github:~$ technologies
 
@@ -51,8 +53,9 @@ nikita@github:~$ technologies
 ✔ PostgreSQL
 ✔ Docker
 
+
 nikita@github:~$ current_status
 
-🟢 Available for interesting projects
+🟣 Available for interesting projects
 
 █
