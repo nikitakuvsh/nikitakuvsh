@@ -18,7 +18,7 @@
 <td width="100%" align="center" valign="middle">
 
 <img 
-  src="./.github/workflows/rsymbols.png" 
+  src="./.github/workflows/rsymbols2.png" 
   width="500"
   alt="ASCII Art">
 
