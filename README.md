@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph.svg">
@@ -10,17 +11,10 @@
 
 <br>
 
-<table>
-<tr>
 
 <td width="40%" align="center" valign="middle">
 
-<img 
-  src="./.github/workflows/ASCIIIIIII.jpg" 
-  width="100%" 
-  alt="ASCII Art">
 
-</td>
 
 <td width="60%" valign="middle">
 
@@ -57,3 +51,12 @@ nikita@github:~$ current_status
 🟣 Available for interesting projects
 
 █
+
+```
+
+<p align="center">
+  <img 
+    src="./.github/workflows/rsymbols.png" 
+    width="50%" 
+    alt="ASCII Art">
+</p>
