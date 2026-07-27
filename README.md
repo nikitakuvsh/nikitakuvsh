@@ -1,8 +1,5 @@
 <div align="center">
 
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph.svg">
