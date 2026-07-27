@@ -12,11 +12,20 @@
 <br>
 
 
-<td width="40%" align="center" valign="middle">
+<table align="center">
+<tr>
+
+<td width="100%" align="center" valign="middle">
+
+<img 
+  src="./.github/workflows/rsymbols.png" 
+  width="500"
+  alt="ASCII Art">
+
+</td>
 
 
-
-<td width="60%" valign="middle">
+<td width="100%" valign="middle">
 
 ```console
 nikita@github:~$ whoami
@@ -31,7 +40,7 @@ scalable applications and reliable backend solutions.
 
 nikita@github:~$ location
 
-Moscow, Russia
+📍 Moscow, Russia
 
 
 nikita@github:~$ technologies
@@ -51,12 +60,3 @@ nikita@github:~$ current_status
 🟣 Available for interesting projects
 
 █
-
-```
-
-<p align="center">
-  <img 
-    src="./.github/workflows/rsymbols.png" 
-    width="50%" 
-    alt="ASCII Art">
-</p>
