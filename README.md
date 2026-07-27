@@ -1,49 +1,58 @@
-<h1 align="center">Привет! Я Никита 👋</h1>
+<div align="center">
 
-<p align="center">
-  Frontend-Focused FullStack Developer <br/>
-  г. Москва <br/>
-  💻 Люблю создавать современные, отзывчивые и продуманные интерфейсы
-</p>
+# 👋 Hi, I'm Nikita
 
----
+### Frontend-focused FullStack devoloper
 
-### 🧑‍💻 Немного обо мне
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+modern+web+applications...;React+%7C+TypeScript+%7C+FastAPI;Designing+scalable+solutions." />
 
-- 🎯 Основной фокус — **Frontend** с сильной базой на **React**
-- 🌍 Работаю как с интерфейсами, так и с серверной логикой (FastAPI, Node.js)
-- 🚀 Постоянно учусь и совершенствуюсь — люблю чистый код, понятную архитектуру и современные практики
-- 🌆 Живу в Москве, открыт к интересным предложениям и коллаборациям
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=120&section=header"/>
+
+</div>
 
 ---
 
-### 🧰 Мой стек
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nikitakuvsh/nikitakuvsh/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ---
 
-### 📊 Немного статистики
+```console
+nikita@github:~$ whoami
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitakuvsh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakuvsh&layout=compact&theme=tokyonight" />
-</p>
+Nikita Kuvshinnikov
 
----
+Frontend-Focused FullStack Developer
 
-### 📬 Контакты
+Focused on creating modern user interfaces,
+scalable applications and reliable backend solutions.
 
-- Telegram: [@nikitakuvsh](https://t.me/nikitakuvsh)
-- Email: `nikita_kuvshinnikov@inbox.ru`
+nikita@github:~$ location
 
----
+Moscow, Russia
+
+nikita@github:~$ technologies
+
+✔ React
+✔ TypeScript
+✔ JavaScript
+✔ TailwindCSS
+✔ FastAPI
+✔ Python
+✔ PostgreSQL
+✔ Docker
+
+nikita@github:~$ current_status
+
+🟢 Available for interesting projects
+
+█
