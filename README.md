@@ -59,4 +59,12 @@ root@github:~$ current_status
 
 🟣 Available for interesting projects
 
-█
+```
+
+<div align="center">
+
+<a href="https://t.me/nikitapoluchaetcya">
+  <img src="https://img.shields.io/badge/Telegram-@nikitapoluchaetcya-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
+</a>
+
+</div>
